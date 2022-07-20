@@ -11,7 +11,7 @@ does parsing of the "https://www.lesegais.ru/open-area/deal" page
   Интервал между проходами - 10 минут.
 В качестве уникального ключа выбран номер сделки.
 Повторяющиеся значения будут игнорироваться при вставке.
-
+Строка подключения к DB находится в App.config.
 
 
   ![image](https://user-images.githubusercontent.com/103505023/180056220-2a72b01e-9d72-4f92-8a25-521abab626c7.png)
